@@ -2,7 +2,7 @@
 
 This is to show that ionic has an issue with oppo devices.
 
-Steps taken
+### Steps taken:
 ````ionic start````    
 Choose Angular without capacitor    
 ````ionic cordova platform add android````        
